@@ -1,0 +1,9 @@
+header.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionStatic.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+background: rgb(6,38,88) !important;
+background: linear-gradient(90deg, rgba(6,38,88,1) 62%, rgba(51,129,187,1) 94%, rgba(6,38,88,1) 100%) !important;
+}
+
+.logoutbtn{
+    border:1px solid #fff !important;
+    border-radius: 5px !important;
+}

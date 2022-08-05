@@ -1,0 +1,47 @@
+.selectcustom{
+    width:200px;
+    height:30px;
+    border-radius: 5px;;
+}
+.customCard {
+    margin: 28px;
+    padding: 2em;
+    background-color: #e0e0e0 !important;
+
+}
+
+.cardContainer{
+    
+    display: flex;
+    flex-wrap: wrap; 
+}
+.subtitle{
+    color:#000;
+}
+.strategyTitile{
+min-height: 68px;
+}
+.commonbtn{
+    cursor: pointer;
+    background-color: rgb(6,38,88) !important;
+    background: linear-gradient(90deg, rgba(6,38,88,1) 62%, rgba(51,129,187,1) 94%, rgba(6,38,88,1) 100%) !important;
+ }
+@media (min-width:576px) {
+    .container{
+    
+        flex: 100%;  
+    }
+}
+ @media (min-width:768px) {
+    .container{
+    
+        flex: 50%;  
+    }
+   
+} 
+@media (min-width:992px) {
+    .container{
+    
+        flex:33.33%;  
+    }
+}

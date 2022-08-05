@@ -1,0 +1,68 @@
+/* #display{
+    
+    display:grid;
+    grid-template-columns: auto auto auto;
+    padding:30px;
+    grid-gap:20px
+} */
+.cardContainer{
+    
+    display: flex;
+    flex-wrap: wrap; 
+}
+.selectcustom{
+    width:200px;
+    height:30px;
+    border-radius: 5px;;
+}
+.customCard {
+    margin: 28px;
+    padding: 2em;
+    background-color: #e0e0e0 !important;
+
+}
+.strategybtn{
+    font-size: 9px !important;
+    color: #fff !important;
+    border: 1px solid #000 !important;
+    background-color: #000 !important;
+}
+
+.subtitle{
+    color:#000;
+}
+.strategyTitile1{
+/* min-height: 52px; */
+width: 262px;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+padding: 0px;
+resize: horizontal;
+}
+.MuiCardActions-root.MuiCardActions-spacing.css-1t6e9jv-MuiCardActions-root{
+    margin: 0 auto !important;
+    display: block !important;
+}
+/* .css-1ri6ub7-MuiPaper-root-MuiCard-root{
+    max-width: none !important;
+} */
+@media (min-width:576px) {
+    .container{
+    
+        flex: 100%;  
+    }
+}
+ @media (min-width:769px) {
+    .container{
+    
+        flex: 50%;  
+    }
+   
+} 
+@media (min-width:992px) {
+    .container{
+    
+        flex:33.33%;  
+    }
+}
