@@ -1,0 +1,51 @@
+.main {
+  display: flex;
+  flex-direction: column;
+
+  padding-top: 30px;
+}
+.graph {
+  padding: 10px;
+  flex: 50%;
+}
+.card {
+  padding: 10px;
+  flex: 50%;
+}
+.details {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: auto auto;
+}
+.buttons {
+  justify-content: center;
+}
+.customform{
+  border: 1px solid darkblue;
+  width: 80%;
+  margin: 0px auto;
+  padding: 20px;
+}
+.radiogroup{
+  width:70% !important;
+}
+.commonbtn{
+  background-color: rgb(6,38,88) !important;
+  padding: 5px 20px !important;
+  color:#fff !important;
+  background: linear-gradient(90deg, rgba(6,38,88,1) 62%, rgba(51,129,187,1) 94%, rgba(6,38,88,1) 100%) !important;
+  }
+
+  .MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    width: 97% !important;
+    margin: 8px;
+}
+.css-ypiqx9-MuiDialogContent-root{
+overflow: hidden !important;
+}
+.recharts-wrapper.graph {
+  margin: 0 auto !important;
+}
+/* .css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+
+} */

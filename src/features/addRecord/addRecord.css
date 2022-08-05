@@ -1,0 +1,15 @@
+.MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    width: 70%;
+    margin: 8px;
+}
+.addRecord{
+    color:rgb(6 38 88) !important;
+}
+.commonbtn{
+    background-color: rgb(6,38,88) !important;
+    background: linear-gradient(90deg, rgba(6,38,88,1) 62%, rgba(51,129,187,1) 94%, rgba(6,38,88,1) 100%) !important;
+    }
+.addRecordForm{
+    width: 60%;
+    margin: 0 auto;
+}

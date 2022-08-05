@@ -1,0 +1,11 @@
+
+#project-box{
+    text-align: center;   
+}
+.commonbtn{
+background-color: rgb(6,38,88) !important;
+background: linear-gradient(90deg, rgba(6,38,88,1) 62%, rgba(51,129,187,1) 94%, rgba(6,38,88,1) 100%) !important;
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.commonbtn.css-sghohy-MuiButtonBase-root-MuiButton-root{
+    margin: 10px !important;;
+}

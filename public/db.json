@@ -1,0 +1,338 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Ankit Gupta",
+      "email": "ankit@gmail.com",
+      "password": "ankit@123!"
+    },
+    {
+      "id": 2,
+      "name": "Vignesh",
+      "email": "vignesh",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "name": "George",
+      "email": "george@gmail.com",
+      "password": "123"
+    },
+    {
+      "strategyId": 0,
+      "strategyTitle": "f",
+      "decisionDate": "dfd",
+      "ombInitiative": "fd",
+      "useOfSavingsAvoidance": "fdf",
+      "amountType": "fdfd",
+      "id": 4
+    }
+  ],
+  "strategies": [
+    {
+      "strategyId": 1,
+      "strategyTitle": "Data Center Infrastructure",
+      "decisionDate": "09/30/2016",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2012": {
+        "amount": 17.032,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 5.913,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 117.762,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 49.36,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 80.426,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 60.938,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 64.1,
+        "netOrGross": "Gross"
+      },
+      "fy2019": {
+        "amount": 102.3,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 109.5,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 158.5,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 28.3,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 4,
+      "strategyTitle": "Circuits, Medical Devices, Commodity IT Reform, Wireless Device Mgmt, and other IP Devices",
+      "decisionDate": "09/30/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 16.1,
+        "netOrGross": "Gross"
+      },
+      "fy2019": {
+        "amount": 39.9,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 42.7,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 65.5,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 60.9,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 5,
+      "strategyTitle": "Fourth Estate IT Reform, Application Rationalization, and Assisted Acquisition through USA Learning",
+      "decisionDate": "09/30/2016",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 2.7,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 85.8,
+        "netOrGross": "Gross"
+      },
+      "fy2019": {
+        "amount": 136.3,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 430.2,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 373.7,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 370.1,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 6,
+      "strategyTitle": "Enterprise Licensing",
+      "decisionDate": "09/30/2016",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 21.1,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 42.3,
+        "netOrGross": "Gross"
+      },
+      "fy2019": {
+        "amount": 63.4,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 63.4,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 63.4,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 64.2,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 7,
+      "strategyTitle": "Cloud Savings",
+      "decisionDate": "09/30/2019",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2020": {
+        "amount": 5,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 12,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 26,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 8,
+      "strategyTitle": "DISA Ecosystem Rate Reduction",
+      "decisionDate": "09/30/2018",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2019": {
+        "amount": 50,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 64,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 64,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 64,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 9,
+      "strategyTitle": "IT Budget Savings",
+      "decisionDate": "05/01/2022",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Agency Core Mission",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        ""
+      ],
+      "fy2019": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2020": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2021": {
+        "amount": 0.4,
+        "netOrGross": "Gross"
+      },
+      "fy2022": {
+        "amount": 7.9,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 10,
+      "strategyTitle": "f",
+      "decisionDate": "f",
+      "ombInitiative": "f",
+      "useOfSavingsAvoidance": "f",
+      "amountType": "f"
+    }
+  ]
+}
