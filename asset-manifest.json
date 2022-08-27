@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Investment-Tracker/static/css/main.90ec33a9.css",
+    "main.js": "/Investment-Tracker/static/js/main.1ce59913.js",
+    "static/js/787.48106c33.chunk.js": "/Investment-Tracker/static/js/787.48106c33.chunk.js",
+    "static/media/Login.png": "/Investment-Tracker/static/media/Login.93700113f82a229bd752.png",
+    "index.html": "/Investment-Tracker/index.html",
+    "main.90ec33a9.css.map": "/Investment-Tracker/static/css/main.90ec33a9.css.map",
+    "main.1ce59913.js.map": "/Investment-Tracker/static/js/main.1ce59913.js.map",
+    "787.48106c33.chunk.js.map": "/Investment-Tracker/static/js/787.48106c33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ec33a9.css",
+    "static/js/main.1ce59913.js"
+  ]
+}
