@@ -4,8 +4,7 @@ const initialState = {
   loading: false,
   records: [],
 };
-export const fetchArrange = createAsyncThunk("fetchForArrange", (id) => {
-  console.log(id);
+export const fetchArrange = createAsyncThunk("fetchForArrange", () => {
   return fetch("https://my-json-server.typicode.com/karthixv4/data/strategies").then((response) =>
     response.json()
   );
