@@ -2,14 +2,14 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
 //Fetch ALl records
 export const fetchRecords = createAsyncThunk("Records/Fetch", () => {
-  return fetch("http://localhost:3002/strategies").then((response) =>
+  return fetch("https://my-json-server.typicode.com/karthixv4/data/strategies").then((response) =>
     response.json()
   );
 });
 
 //ADDING RECORDS
 export const addRecord = createAsyncThunk("Record/Add", (strategy) => {
-  fetch(`http://localhost:3002/strategies`, {
+  fetch(`https://my-json-server.typicode.com/karthixv4/data/strategies`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -25,14 +25,14 @@ export const addRecord = createAsyncThunk("Record/Add", (strategy) => {
 });
 //Fetch Records By Id
 export const fetchRecordById = createAsyncThunk("record/fetchById", (id) => {
-  return fetch(`http://localhost:3002/strategies/${id}`).then((response) =>
+  return fetch(`https://my-json-server.typicode.com/karthixv4/data/strategies/${id}`).then((response) =>
     response.json()
   );
 });
 
 export const updateRecord = createAsyncThunk("record/update", (strategy) => {
   console.log("strategy", strategy);
-  fetch(`http://localhost:3002/strategies/${strategy.strategyId}`, {
+  fetch(`https://my-json-server.typicode.com/karthixv4/data/strategies/${strategy.strategyId}`, {
     method: "PUT",
     headers: {
       "Content-Type": "application/json",

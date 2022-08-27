@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
 export const saveUsers = createAsyncThunk("users/save", (user) => {
-  fetch(`http://localhost:3002/Users`, {
+  fetch(`https://my-json-server.typicode.com/karthixv4/data/Users`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

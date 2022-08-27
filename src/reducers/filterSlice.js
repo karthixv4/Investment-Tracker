@@ -2,12 +2,12 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
 //Fetch Records By Id
 export const fetchRecordByIds = createAsyncThunk("record/fetchById", (year) => {
-  return fetch(`http://localhost:3002/strategies/`).then((response) =>
+  return fetch(`https://my-json-server.typicode.com/karthixv4/data/strategies/`).then((response) =>
     response.json()
   );
 });
 export const fetchRecordFilter = createAsyncThunk("record/fetchFilter", () => {
-  return fetch(`http://localhost:3002/strategies`).then((response) =>
+  return fetch(`https://my-json-server.typicode.com/karthixv4/data/strategies`).then((response) =>
     response.json()
   );
 });
