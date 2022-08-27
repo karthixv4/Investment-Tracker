@@ -8,7 +8,7 @@ const initialState = {
 };
 
 export const fetchUsers = createAsyncThunk("user/fetchUsers", () => {
-  return fetch("http://localhost:3002/users").then((response) =>
+  return fetch("https://my-json-server.typicode.com/karthixv4/data/Users").then((response) =>
     response.json()
   );
 });
